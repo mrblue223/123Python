@@ -1,6 +1,8 @@
 import socket
 import threading
 
+# IP = the ip ur hosting on / PORT = the port ur hosting on
+
 IP = '127.0.0.1'
 PORT = 9998
 
